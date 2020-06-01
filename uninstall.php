@@ -6,7 +6,7 @@
  * @link http://clivern.com/
  * @version 1.2
  * @copyright Copyright (c) 2014, Clivern
- * @license http://codecanyon.net/licenses
+ * @license http://clivern.com/
  * @package bits
  */
 
