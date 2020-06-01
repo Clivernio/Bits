@@ -1,6 +1,6 @@
 <?php
 /**
- * Bits - Modern Syntax Highlighter
+ * Bits - Another Wordpress Plugin
  * --------------------------------
  * @author Clivern <hello@clivern.com>
  * @link http://clivern.com/
